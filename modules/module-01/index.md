@@ -3,3 +3,4 @@
 Sumário
 
 -   [Váriaveis](variables.md)
+-   [Tipos primitivos](primitive-types.md)
