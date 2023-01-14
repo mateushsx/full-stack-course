@@ -5,3 +5,4 @@ Sumário
 -   [Váriaveis](variables.md)
 -   [Tipos primitivos](primitive-types.md)
 -   [Operadores Aritiméticos](arithmetic-operators.md)
+-   [Metódos alert, prompt, confirm](alert-confirm-prompt.md)
