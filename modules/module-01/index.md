@@ -8,3 +8,4 @@ Sumário
 -   [Metódos alert, prompt, confirm](alert-confirm-prompt.md)
 -   [Strings](strings.md)
 -   [Números](number.md)
+-   [Objeto Math](math.md)
