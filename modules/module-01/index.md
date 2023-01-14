@@ -11,3 +11,4 @@ Sumário
 -   [Objeto Math](math.md)
 -   [Arrays](array.md)
 -   [Funções (function)](functions.md)
+-   [Objetos](objects.md)
