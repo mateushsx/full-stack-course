@@ -39,3 +39,7 @@ Outras propriedades e métodos incluem:
 -   `Math.fround(x)`: retorna o argumento x como uma representação de ponto flutuante de precisão simples.
 
 Esses são apenas alguns exemplos das várias propriedades e métodos disponíveis no objeto Math. É sempre uma boa ideia consultar a documentação do JavaScript para obter uma lista completa e obter mais informações sobre como usá-los.
+
+---
+
+### [Voltar ao ínicio](./index.md)

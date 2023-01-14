@@ -46,3 +46,7 @@ console.log(john.age); // 30
 ```
 
 É importante lembrar que as funções em javascript possuem escopo, isso significa que as variáveis declaradas dentro de uma função só estão disponíveis dentro da função.
+
+---
+
+### [Voltar ao ínicio](./index.md)

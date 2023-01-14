@@ -31,3 +31,7 @@ JavaScript fornece vários métodos para trabalhar com arrays, como:
 -   `.reverse()`: inverte a ordem dos elementos do array.
 
 Há muitos outros métodos e propriedades disponíveis para trabalhar com arrays. A melhor forma de entender é consultar a documentação do JavaScript e experimentando com eles.
+
+---
+
+### [Voltar ao ínicio](./index.md)

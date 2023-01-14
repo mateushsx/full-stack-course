@@ -51,3 +51,7 @@ console.log(5 <= 3); // false
 ```
 
 Esses operadores de comparação são amplamente utilizados em condicionais if, else if e loops para controlar o fluxo de execução do código. É importante entender como eles funcionam e quando usá-los para escrever código eficiente e correto.
+
+---
+
+### [Voltar ao ínicio](./index.md)

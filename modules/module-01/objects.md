@@ -42,3 +42,7 @@ JavaScript também fornece alguns métodos para trabalhar com objetos, como:
 -   `Object.freeze(obj)`: impede que as propriedades de um objeto sejam adicionadas, removidas ou modificadas.
 
 Há muitas outras maneiras de trabalhar com objetos em javascript, como o uso de classes e herança, entretanto é importante consultar a documentação do javascript para entender melhor.
+
+---
+
+### [Voltar ao ínicio](./index.md)

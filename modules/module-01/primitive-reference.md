@@ -21,3 +21,7 @@ console.log(obj2.a); // 2
 ```
 
 É importante lembrar a diferença entre valores primitivos e valores por referência quando se trabalha com código JavaScript, pois isso pode afetar como seu código é executado e como ele se comporta. Em alguns casos, você pode querer fazer uma cópia profunda (_deep copy_) de um objeto para evitar alterações indesejadas.
+
+---
+
+### [Voltar ao ínicio](./index.md)

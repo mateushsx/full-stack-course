@@ -36,3 +36,7 @@ console.log(x); // 0.30000000000000004
 ```
 
 E sempre que possível, evite trabalhar com números muito grandes ou muito pequenos, pois isso pode causar problemas de precisão.
+
+---
+
+### [Voltar ao ínicio](./index.md)
