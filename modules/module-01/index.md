@@ -7,3 +7,4 @@ Sumário
 -   [Operadores Aritiméticos](arithmetic-operators.md)
 -   [Metódos alert, prompt, confirm](alert-confirm-prompt.md)
 -   [Strings](strings.md)
+-   [Números](number.md)
