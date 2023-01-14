@@ -9,3 +9,4 @@ Sumário
 -   [Strings](strings.md)
 -   [Números](number.md)
 -   [Objeto Math](math.md)
+-   [Arrays](array.md)
