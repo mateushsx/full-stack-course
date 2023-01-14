@@ -12,3 +12,4 @@ Sumário
 -   [Arrays](array.md)
 -   [Funções (function)](functions.md)
 -   [Objetos](objects.md)
+-   [Valores primitivos vs por referência](primitive-reference.md)
