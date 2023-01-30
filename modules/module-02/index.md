@@ -6,3 +6,4 @@ Sumário
 -   [Operadores de comparação](comparison-operators.md)
 -   [Operadores lógicos](logical-operators.md)
 -   [Avalização de Short-Circuit](short-circuit.md)
+-   [Operador ternário](ternary-operator.md)
