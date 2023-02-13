@@ -7,3 +7,4 @@ Sumário
 -   [Operadores lógicos](logical-operators.md)
 -   [Avalização de Short-Circuit](short-circuit.md)
 -   [Operador ternário](ternary-operator.md)
+-   [Objeto "Date"](ternary-operator.md)
